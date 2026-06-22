@@ -12,6 +12,7 @@ burrppp
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 ## Greedy
 |  |
@@ -61,4 +62,12 @@ burrppp
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
