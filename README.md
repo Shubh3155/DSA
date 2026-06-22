@@ -6,6 +6,7 @@ burrppp
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 ## Array
 |  |
@@ -51,4 +52,8 @@ burrppp
 |  |
 | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
