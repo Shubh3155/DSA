@@ -7,6 +7,7 @@ burrppp
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
+| [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 ## Array
 |  |
@@ -56,4 +57,8 @@ burrppp
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
