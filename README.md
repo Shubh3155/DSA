@@ -15,6 +15,7 @@ burrppp
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
+| [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 ## Greedy
