@@ -9,6 +9,7 @@ burrppp
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Shubh3155/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh3155/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -71,6 +72,7 @@ burrppp
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Shubh3155/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 ## Stack
 |  |
