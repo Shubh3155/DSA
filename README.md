@@ -48,6 +48,7 @@ burrppp
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 ## Two Pointers
@@ -80,4 +81,8 @@ burrppp
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
