@@ -20,6 +20,7 @@ burrppp
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ burrppp
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -97,4 +99,21 @@ burrppp
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
