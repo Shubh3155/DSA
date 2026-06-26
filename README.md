@@ -21,6 +21,7 @@ burrppp
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@ burrppp
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -100,18 +102,22 @@ burrppp
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
