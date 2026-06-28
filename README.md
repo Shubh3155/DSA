@@ -20,6 +20,7 @@ burrppp
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubh3155/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubh3155/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -28,10 +29,12 @@ burrppp
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubh3155/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubh3155/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Tree
 |  |
 | ------- |
