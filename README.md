@@ -16,6 +16,7 @@ burrppp
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -102,6 +103,7 @@ burrppp
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubh3155/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -137,4 +139,8 @@ burrppp
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
