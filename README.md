@@ -13,6 +13,7 @@ burrppp
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh3155/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh3155/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Array
 |  |
@@ -80,6 +81,7 @@ burrppp
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubh3155/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -145,4 +147,8 @@ burrppp
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
