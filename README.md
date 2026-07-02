@@ -14,6 +14,7 @@ burrppp
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh3155/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shubh3155/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -117,6 +118,7 @@ burrppp
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh3155/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shubh3155/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
