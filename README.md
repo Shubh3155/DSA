@@ -39,6 +39,7 @@ burrppp
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubh3155/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubh3155/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubh3155/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Shubh3155/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -84,6 +85,7 @@ burrppp
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubh3155/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubh3155/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -141,6 +143,7 @@ burrppp
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shubh3155/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubh3155/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Shubh3155/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubh3155/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -215,4 +218,8 @@ burrppp
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shubh3155/DSA/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubh3155/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
