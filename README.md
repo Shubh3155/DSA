@@ -23,6 +23,7 @@ burrppp
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubh3155/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubh3155/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shubh3155/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ burrppp
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubh3155/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubh3155/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shubh3155/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shubh3155/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubh3155/DSA/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -110,6 +112,7 @@ burrppp
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubh3155/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shubh3155/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3620-network-recovery-pathways](https://github.com/Shubh3155/DSA/tree/master/3620-network-recovery-pathways) |
 ## Interactive
 |  |
@@ -180,6 +183,7 @@ burrppp
 ## Segment Tree
 |  |
 | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Shubh3155/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Shubh3155/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
