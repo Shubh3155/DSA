@@ -31,6 +31,7 @@ burrppp
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubh3155/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubh3155/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shubh3155/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -65,6 +66,7 @@ burrppp
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -96,6 +98,7 @@ burrppp
 | ------- |
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
