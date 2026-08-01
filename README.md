@@ -35,6 +35,7 @@ burrppp
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubh3155/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubh3155/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shubh3155/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
@@ -108,6 +109,7 @@ burrppp
 | ------- |
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -184,6 +186,7 @@ burrppp
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubh3155/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubh3155/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shubh3155/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh3155/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
@@ -296,4 +299,12 @@ burrppp
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubh3155/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
