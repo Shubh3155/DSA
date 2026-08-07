@@ -16,6 +16,7 @@ burrppp
 | [0686-repeated-string-match](https://github.com/Shubh3155/DSA/tree/master/0686-repeated-string-match) |
 | [0830-positions-of-large-groups](https://github.com/Shubh3155/DSA/tree/master/0830-positions-of-large-groups) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh3155/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubh3155/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
@@ -44,6 +45,7 @@ burrppp
 | [0941-valid-mountain-array](https://github.com/Shubh3155/DSA/tree/master/0941-valid-mountain-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1260-shift-2d-grid](https://github.com/Shubh3155/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -83,6 +85,7 @@ burrppp
 | [0368-largest-divisible-subset](https://github.com/Shubh3155/DSA/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh3155/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -143,6 +146,7 @@ burrppp
 ## Two Pointers
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shubh3155/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -162,6 +166,7 @@ burrppp
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubh3155/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -206,6 +211,7 @@ burrppp
 | [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Shubh3155/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/Shubh3155/DSA/tree/master/0877-stone-game) |
+| [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
