@@ -48,6 +48,7 @@ burrppp
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shubh3155/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -131,6 +132,7 @@ burrppp
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shubh3155/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1406-stone-game-iii](https://github.com/Shubh3155/DSA/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubh3155/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,6 +220,7 @@ burrppp
 | [0877-stone-game](https://github.com/Shubh3155/DSA/tree/master/0877-stone-game) |
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shubh3155/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -230,6 +233,7 @@ burrppp
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubh3155/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shubh3155/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -343,6 +347,7 @@ burrppp
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shubh3155/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shubh3155/DSA/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -356,4 +361,12 @@ burrppp
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shubh3155/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
