@@ -396,6 +396,7 @@ burrppp
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/Shubh3155/DSA/tree/master/0052-n-queens-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubh3155/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
@@ -434,4 +435,8 @@ burrppp
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Shubh3155/DSA/tree/master/0096-unique-binary-search-trees) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Shubh3155/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
