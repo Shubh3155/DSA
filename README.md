@@ -71,6 +71,7 @@ burrppp
 | [2029-stone-game-ix](https://github.com/Shubh3155/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shubh3155/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh3155/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubh3155/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Shubh3155/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -117,6 +118,7 @@ burrppp
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh3155/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Shubh3155/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Shubh3155/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh3155/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubh3155/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shubh3155/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shubh3155/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -350,6 +352,7 @@ burrppp
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubh3155/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh3155/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
