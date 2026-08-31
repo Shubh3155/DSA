@@ -468,4 +468,8 @@ burrppp
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Shubh3155/DSA/tree/master/0052-n-queens-ii) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubh3155/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
