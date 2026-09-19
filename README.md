@@ -184,6 +184,7 @@ burrppp
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shubh3155/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shubh3155/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubh3155/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shubh3155/DSA/tree/master/1563-stone-game-v) |
@@ -281,6 +282,7 @@ burrppp
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Shubh3155/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Dynamic Programming
 |  |
 | ------- |
