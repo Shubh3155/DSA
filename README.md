@@ -20,6 +20,7 @@ burrppp
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubh3155/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/Shubh3155/DSA/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Shubh3155/DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Shubh3155/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -134,6 +135,7 @@ burrppp
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/Shubh3155/DSA/tree/master/1029-two-city-scheduling) |
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shubh3155/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -164,6 +166,7 @@ burrppp
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Shubh3155/DSA/tree/master/0226-invert-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubh3155/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubh3155/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -250,6 +253,7 @@ burrppp
 | [0205-isomorphic-strings](https://github.com/Shubh3155/DSA/tree/master/0205-isomorphic-strings) |
 | [0409-longest-palindrome](https://github.com/Shubh3155/DSA/tree/master/0409-longest-palindrome) |
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubh3155/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh3155/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -281,6 +285,7 @@ burrppp
 | [0682-baseball-game](https://github.com/Shubh3155/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shubh3155/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shubh3155/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -488,6 +493,7 @@ burrppp
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Shubh3155/DSA/tree/master/0052-n-queens-ii) |
+| [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubh3155/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Indexed Tree
 |  |
