@@ -7,6 +7,7 @@ burrppp
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubh3155/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shubh3155/DSA/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Shubh3155/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Shubh3155/DSA/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
@@ -314,6 +315,7 @@ burrppp
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shubh3155/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Shubh3155/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/Shubh3155/DSA/tree/master/0072-edit-distance) |
@@ -506,6 +508,7 @@ burrppp
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Shubh3155/DSA/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/Shubh3155/DSA/tree/master/0052-n-queens-ii) |
 | [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubh3155/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -560,6 +563,7 @@ burrppp
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubh3155/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shubh3155/DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubh3155/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubh3155/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubh3155/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
