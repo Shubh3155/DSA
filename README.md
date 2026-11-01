@@ -56,6 +56,7 @@ burrppp
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shubh3155/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shubh3155/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0368-largest-divisible-subset](https://github.com/Shubh3155/DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubh3155/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shubh3155/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -194,6 +195,7 @@ burrppp
 | [0096-unique-binary-search-trees](https://github.com/Shubh3155/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Shubh3155/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0368-largest-divisible-subset](https://github.com/Shubh3155/DSA/tree/master/0368-largest-divisible-subset) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Shubh3155/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Shubh3155/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shubh3155/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shubh3155/DSA/tree/master/0836-rectangle-overlap) |
