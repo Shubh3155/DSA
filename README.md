@@ -70,6 +70,7 @@ burrppp
 | [1048-longest-string-chain](https://github.com/Shubh3155/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Shubh3155/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -178,6 +179,7 @@ burrppp
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Shubh3155/DSA/tree/master/0226-invert-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubh3155/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubh3155/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Shubh3155/DSA/tree/master/3310-remove-methods-from-project) |
@@ -186,6 +188,7 @@ burrppp
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Shubh3155/DSA/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Shubh3155/DSA/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubh3155/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubh3155/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -408,6 +411,7 @@ burrppp
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Shubh3155/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shubh3155/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shubh3155/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -439,6 +443,7 @@ burrppp
 | [0063-unique-paths-ii](https://github.com/Shubh3155/DSA/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/Shubh3155/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Shubh3155/DSA/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubh3155/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -459,6 +464,7 @@ burrppp
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Shubh3155/DSA/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shubh3155/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shubh3155/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubh3155/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
