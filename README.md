@@ -79,6 +79,7 @@ burrppp
 | [1288-remove-covered-intervals](https://github.com/Shubh3155/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shubh3155/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shubh3155/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubh3155/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shubh3155/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Shubh3155/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shubh3155/DSA/tree/master/1406-stone-game-iii) |
@@ -236,6 +237,7 @@ burrppp
 | [0989-add-to-array-form-of-integer](https://github.com/Shubh3155/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Shubh3155/DSA/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubh3155/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubh3155/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Shubh3155/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shubh3155/DSA/tree/master/1510-stone-game-iv) |
@@ -411,6 +413,7 @@ burrppp
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Shubh3155/DSA/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubh3155/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Shubh3155/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubh3155/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubh3155/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -647,4 +650,12 @@ burrppp
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shubh3155/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubh3155/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Shubh3155/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
