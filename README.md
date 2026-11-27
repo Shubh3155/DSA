@@ -143,6 +143,7 @@ burrppp
 | [3903-smallest-stable-index-i](https://github.com/Shubh3155/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Shubh3155/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Shubh3155/DSA/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubh3155/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ burrppp
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Shubh3155/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubh3155/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Shubh3155/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubh3155/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -416,6 +418,7 @@ burrppp
 | [3693-climbing-stairs-ii](https://github.com/Shubh3155/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubh3155/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubh3155/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Shubh3155/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |
